@@ -1,0 +1,15 @@
+{
+    "name": "lotfi-hadjsadok/raysel-checkout",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lotfi-Hadjsadok",
+            "email": "83740857+Lotfi-Hadjsadok@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
